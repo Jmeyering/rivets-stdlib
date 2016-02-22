@@ -1,0 +1,24 @@
+{
+  "name": "rivets-stdlib",
+  "version": "1.0.0",
+  "description": "Standard formatters and binders for a project utilizing rivetsjs",
+  "main": "src/rivets-stdlib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmeyering/rivets-stdlib.git"
+  },
+  "keywords": [
+    "rivets",
+    "backbone",
+    "rivetsjs"
+  ],
+  "author": "Jared Meyering <jared.meyering@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Jmeyering/rivets-stdlib/issues"
+  },
+  "homepage": "https://github.com/Jmeyering/rivets-stdlib#readme"
+}
